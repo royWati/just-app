@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="GreenGo">#79E07E</color>
+    <color name="RedStop">#FF5722</color>
+    <color name="OrangeWait">#FFC107</color>
 </resources>
